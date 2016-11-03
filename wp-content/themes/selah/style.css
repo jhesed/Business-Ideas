@@ -1,0 +1,104 @@
+/*
+Theme Name: Selah Theme
+Description: Child theme for zerif-lite
+Author: Jhesed Tacadena
+Template: zerif-lite
+Version: 1.0.0
+*/
+
+p.selah{
+	margin-bottom: .5em;
+}
+p.selah-catch-praise{
+	font-size:16px;
+    font-weight: bold;
+    font-style: italic;
+}
+p.selah-price{
+	font-size:13px;
+	margin-bottom:0;
+}
+p.selah-info, p.selah-info span{
+    font-size:15px;
+    margin-bottom:.3em;
+}
+p.selah-price-details, p.selah-price-details span{
+	font-size:12px;
+	margin-bottom:.2em;
+}
+span.highlight-f1{
+    font-style: italic;
+	color:#e96656;
+}
+span.highlight-f2{
+    font-style: italic;
+    color:#34d293;
+}
+span.highlight-f3{
+    font-style: italic;
+    color:#3ab0e2;
+}
+span.highlight-f4{
+    font-style: italic;
+    color: #f7d861;
+
+}
+/*p.selah-list{
+    float:left;
+    clear:both;
+}*/
+.section-legend{
+    font-size:15px;
+}
+.about-us .big-intro .verse{
+    font-size:17px;
+    font-family: 'Homemade Apple', serif;
+}
+.header-unhighlight{
+    font-style: italic;
+}
+.emphasis{
+    font-size: 65px;
+}
+.separator-one{
+    padding:70px 0 70px 0;
+}
+.separator-one .text{
+    max-width: 850px;
+}
+/* About us */
+.testimonial {
+    background: #99CC99;
+}
+/*.white-text{
+    color:#373D3F;
+}*/
+#client-feedbacks .feedback-box{
+    background:#FFFFCC;
+    width:40%;
+}
+.feedback-box .message{
+    color:#9999CC;
+}
+.client{
+    display: none
+}
+.faq-title{
+     color:black;
+     font-weight: bold;
+     padding-bottom: 10px;
+     font-size:17px;
+}
+.social{
+    display:none;
+}
+/*.nav{
+    display: none;
+}*/
+/*
+
+    <color name="colorPrimary">#373D3F</color>
+    <color name="colorPrimaryDark">#373D3F</color>
+    <color name="colorAccent">#373D3F</color>
+    <color name="colorHeader">#EFD469</color>
+    <color name="colorText">#F2F3F4</color>*/
