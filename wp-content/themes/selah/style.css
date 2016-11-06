@@ -75,7 +75,9 @@ span.highlight-f4{
 }*/
 #client-feedbacks .feedback-box{
     background:#FFFFCC;
-    width:40%;
+    width:30%;
+    height:300px;
+    overflow: hidden;
 }
 .feedback-box .message{
     color:#9999CC;
@@ -91,6 +93,11 @@ span.highlight-f4{
 }
 .social{
     display:none;
+}
+.faq-header{
+    color:#373D3F;
+    font-size:40px;
+    cursor: pointer;
 }
 /*.nav{
     display: none;
