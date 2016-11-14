@@ -1,2 +1,4 @@
-# Business-Ideas
-Contains my ideas on creating my own business
+# jhss
+
+This repository contains source code of a website for accepting sideline projects.
+My ideas software development ideas are also written here for future reference.
