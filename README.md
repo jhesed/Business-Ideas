@@ -1,4 +1,6 @@
-# jhss
+# www.jjhsoftware.com
 
-This repository contains source code of a website for accepting sideline projects.
-My ideas software development ideas are also written here for future reference.
+This repository is an experimental website created to host my personal projects. <br/>
+This was created using <b>PHP WordPress</b> </br>
+
+Link: <b>www.jjhsoftware.com</b>
